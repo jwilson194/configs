@@ -1,0 +1,22 @@
+{
+    "4c26dabb-6999-40ed-b485-03ce2323dcbb": {
+        "id": "4c26dabb-6999-40ed-b485-03ce2323dcbb",
+        "name": "Shutdown",
+        "keyword": "shutdown",
+        "cmd": "systemctl poweroff",
+        "icon": "/usr/share/icons/Faenza-Dark/actions/scalable/system-shutdown.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1600745003
+    },
+    "c5f3c07e-36ac-436c-927d-6b395c923e8c": {
+        "id": "c5f3c07e-36ac-436c-927d-6b395c923e8c",
+        "name": "Reboot",
+        "keyword": "reboot",
+        "cmd": "systemctl reboot",
+        "icon": "/usr/share/icons/Faenza-Dark/apps/scalable/system-restart.svg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1600742003
+    }
+}
